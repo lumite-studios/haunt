@@ -3,3 +3,5 @@
 
 .env
 composer.lock
+haunt.sublime-project
+haunt.sublime-workspace
